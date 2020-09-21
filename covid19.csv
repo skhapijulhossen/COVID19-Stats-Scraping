@@ -1,0 +1,230 @@
+,Country,Cases,Deaths,Recovery
+0,United States[f],6863854,202409,3705509
+1,India,5487580,87882,4396399
+2,Brazil[g],4554629,136895,3851227
+3,Russia[h],1109595,19489,911973
+4,Peru,768895,31369,615255
+5,Colombia,765076,24208,633199
+6,Mexico,697663,73493,499302
+7,South Africa,661211,15953,590071
+8,Spain[i],640040,30495,No data
+9,Argentina[j],631352,13053,488218
+10,France[k],453763,31585,91574
+11,Chile[l],446274,12286,419746
+12,Iran,422140,24301,359570
+13,United Kingdom[m],394257,41777,No data
+14,Bangladesh,348918,4939,256565
+15,Saudi Arabia,329754,4485,310439
+16,Iraq,319035,8555,253591
+17,Pakistan,306304,6420,292869
+18,Turkey,302867,7506,266117
+19,Italy,298156,35707,218351
+20,Philippines,286743,4984,229865
+21,Germany[n],271244,9464,238681
+22,Indonesia,244676,9553,177327
+23,Israel[o],187902,1256,134069
+24,Ukraine[p],178353,3583,78184
+25,Canada[q],143603,9217,124684
+26,Bolivia,130676,7617,89617
+27,Ecuador,124129,11044,97063
+28,Qatar,123376,210,120303
+29,Romania[r],112781,4435,89771
+30,Dominican Republic,107770,2044,80820
+31,Kazakhstan,107134,1671,101610
+32,Panama,106203,2257,81365
+33,Egypt[s],102015,5770,89532
+34,Morocco[t],101743,1830,80732
+35,Kuwait,99434,584,90168
+36,Belgium[u],97976,9936,19436
+37,Oman,93475,846,85418
+38,Netherlands[v],90047,6273,No data
+39,Sweden,88237,5865,No data
+40,Guatemala,85444,3119,74859
+41,China[w],85291,4634,80484
+42,United Arab Emirates,84916,404,74273
+43,Poland,79240,2293,64302
+44,Japan[x],78657,1500,71030
+45,Belarus,75674,780,73265
+46,Honduras,71616,2185,22065
+47,Ethiopia,68820,1096,28314
+48,Portugal,68025,1899,45404
+49,Venezuela,65949,539,55155
+50,Bahrain,64499,221,57299
+51,Costa Rica,63712,706,23552
+52,Nepal,64122,411,46233
+53,Singapore,57532,27,57039
+54,Nigeria,57242,1098,48569
+55,Uzbekistan,51789,435,47932
+56,Algeria,49826,1672,35047
+57,Czech Republic,49290,503,24755
+58,Switzerland[y],48795,1762,40400
+59,Armenia,47431,930,42608
+60,Moldova[z],46596,1203,34636
+61,Ghana,45877,297,45081
+62,Kyrgyzstan,45153,1063,41317
+63,Azerbaijan[aa],39188,575,36755
+64,Afghanistan,39044,1441,32576
+65,Austria,38658,767,29516
+66,Kenya,36981,648,23887
+67,Palestine,33843,244,23060
+68,Paraguay,33520,659,18117
+69,Serbia[ab],32908,741,No data
+70,Ireland,32933,1792,24000
+71,Lebanon,29303,297,12047
+72,El Salvador,27798,812,21782
+73,Libya,27234,430,14679
+74,Australia[ac],26898,849,24057
+75,Bosnia and Herzegovina,24897,752,17365
+76,South Korea,23045,385,20248
+77,Denmark[ad],21847,635,17110
+78,Cameroon,20009,415,18837
+79,Ivory Coast,19100,120,18228
+80,Puerto Rico,18252,570,1359
+81,Bulgaria,18216,734,13057
+82,Hungary,18866,686,4401
+83,North Macedonia,16557,689,13792
+84,Madagascar,15871,215,14482
+85,Greece,15142,338,No data
+86,Croatia,14992,253,12737
+87,Kosovo,14839,601,11784
+88,Senegal,14688,302,11153
+89,Zambia,13819,324,12590
+90,Sudan,13535,836,6759
+91,Norway[ae],12769,267,9348
+92,Albania,12385,362,6940
+93,DR Congo[af],10488,268,9891
+94,Namibia,10377,112,8033
+95,Malaysia,10219,130,9355
+96,Guinea,10111,63,9444
+97,Tunisia,9736,155,2386
+98,Maldives,9724,33,8261
+99,Tajikistan,9171,73,7141
+100,Finland[ag],8922,339,7350
+101,Gabon,8696,53,7848
+102,Haiti,8600,221,6363
+103,Zimbabwe,7672,225,5914
+104,Montenegro,7503,129,4892
+105,Luxembourg,7284,124,6561
+106,Mauritania,7142,160,6669
+107,Slovakia,6546,39,3519
+108,Mozambique,5994,39,3267
+109,Myanmar,5805,94,1260
+110,Malawi,5731,179,4040
+111,Djibouti,5396,61,5333
+112,Eswatini,5191,103,4439
+113,Cape Verde,5141,50,4548
+114,Uganda,5123,58,2333
+115,Hong Kong,5010,103,4708
+116,Cuba[ah],5004,111,4249
+117,Equatorial Guinea,5000,83,4496
+118,Congo[ai],4928,88,3887
+119,Nicaragua,4961,147,2913
+120,Central African Republic,4772,62,1828
+121,Jamaica,4741,58,1327
+122,Suriname,4723,97,4488
+123,Rwanda,4624,22,2767
+124,Jordan,4540,30,2672
+125,Angola,3901,147,1445
+126,Trinidad and Tobago,3853,61,1695
+127,Slovenia,3831,135,2730
+128,Lithuania,3814,87,2199
+129,Syria[aj],3765,170,932
+130,Aruba,3551,23,2239
+131,Thailand,3506,59,3342
+132,The Gambia,3504,108,19992
+133,Somalia[ak],3389,98,2803
+134,Georgia[al],3306,19,1481
+135,Sri Lanka,3283,13,3088
+136,Bahamas[am],3177,69,1626
+137,Estonia,2924,64,2377
+138,Mali,2924,128,2285
+139,Donetsk PR[an],2848,163,1511
+140,Malta,2634,17,1996
+141,South Sudan,2592,49,1290
+142,Benin,2280,40,1950
+143,Guinea-Bissau,2275,39,1127
+144,Iceland,2307,10,2116
+145,Guyana,2269,64,1339
+146,Sierra Leone,2168,72,1650
+147,Yemen,2026,585,1221
+148,Guam[ao],2013,29,1406
+149,Uruguay[ap],1917,46,1621
+150,Togo,1640,41,1251
+151,Belize,1536,19,696
+152,Cyprus[aq],1526,22,1237
+153,Latvia,1526,36,1248
+154,New Zealand,1464,25,1377
+155,Burkina Faso,1452,55,1103
+156,Andorra,1438,53,945
+157,Botswana[ar],1153,11,575
+158,Liberia,1327,82,1214
+159,Lesotho,1245,33,661
+160,U.S. Virgin Islands,1232,19,1170
+161,French Polynesia,1209,2,966
+162,Niger,1180,69,1104
+163,USS Theodore Roosevelt[ao],1102,1,751
+164,Chad,1087,81,944
+165,Charles de Gaulle[as],1081,0,0
+166,Vietnam,1068,35,941
+167,São Tomé and Príncipe,908,15,873
+168,Somaliland[at],903,31,751
+169,Luhansk PR[an],741,17,635
+170,San Marino,723,42,663
+171,Diamond Princess[x],712,14,653
+172,Northern Cyprus[au],694,4,399
+173,Abkhazia[av],674,7,186
+174,Turks and Caicos Islands,668,5,573
+175,Sint Maarten,584,20,488
+176,Papua New Guinea,516,6,232
+177,Taiwan[aw],507,7,479
+178,Comoros,467,7,446
+179,Burundi,466,1,374
+180,Faroe Islands,430,0,412
+181,Jersey,393,32,358
+182,Eritrea,364,0,305
+183,Mauritius,356,10,335
+184,Gibraltar,350,0,322
+185,Artsakh[ax],340,2,300
+186,Isle of Man[ay],339,24,312
+187,Mongolia,311,0,301
+188,Cambodia,275,0,274
+189,Curaçao,268,1,96
+190,Bhutan,259,0,190
+191,Guernsey,254,13,239
+192,Cayman Islands,208,1,204
+193,Barbados,184,7,169
+194,Bermuda,178,9,164
+195,Monaco,171,1,128
+196,Costa Atlantica,148,0,148
+197,Brunei,145,3,141
+198,Seychelles,136,0,127
+199,Greg Mortimer[ap],128,1,No data
+200,Liechtenstein,112,1,108
+201,Antigua and Barbuda,95,3,91
+202,South Ossetia[az],90,0,90
+203,British Virgin Islands,66,1,37
+204,Saint Vincent[ba],64,0,64
+205,Northern Mariana Islands,61,2,19
+206,Macau,46,0,46
+207,Fiji,32,2,26
+208,East Timor,27,0,25
+209,Saint Lucia,27,0,26
+210,New Caledonia,26,0,23
+211,Dominica,25,0,21
+212,Sahrawi Arab DR[bb],25,2,23
+213,Grenada,24,0,24
+214,Laos,23,0,22
+215,Saint Kitts and Nevis,17,0,17
+216,Bonaire,16,1,8
+217,Greenland,14,0,14
+218,Falkland Islands,13,0,13
+219,Montserrat,13,1,12
+220,MS Zaandam[bc],13,4,No data
+221,Coral Princess[bd],12,3,No data
+222,Vatican City,12,0,12
+223,Sint Eustatius,11,0,4
+224,Saint Pierre and Miquelon,11,0,5
+225,HNLMS Dolfijn[be],8,0,8
+226,Saba,5,0,5
+227,Anguilla,3,0,3
+228,Tanzania[bf],No data,No data,No data
