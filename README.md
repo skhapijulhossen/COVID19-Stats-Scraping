@@ -9,4 +9,4 @@
 * openpyxl
 
 
-## This Code will extract covid 19 world stats data with of All Countries.
+## This Code will extract covid 19 world stats Data  of All Countries.
